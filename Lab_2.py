@@ -1,3 +1,13 @@
+###
+#A software company sells a package that retails for $100. Quantity discounts are given according to the following table:
+#                          Quantity                Discount
+#                         10–20                   10%
+#		                  21–50                   20%
+#                         51–100                  25%
+#                         Greater than 100        30%
+#
+#Write a program that asks the user to enter the number of packages purchased. Ensure the quantity input is a positive number. The program should then display the amount of the discount (if any) and the total amount of the purchase after the discount.
+
 retail = 100
 while True:
     try:
