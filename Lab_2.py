@@ -1,4 +1,3 @@
-###
 #A software company sells a package that retails for $100. Quantity discounts are given according to the following table:
 #                          Quantity                Discount
 #                         10–20                   10%
