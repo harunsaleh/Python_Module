@@ -30,9 +30,9 @@ while True:
 
         if discount_rate > 0:
             print(f"Your quantity qualifies for a discount of: {discount_rate*100}%. "
-                  f"The price after discount is: {final_price}")
+                  f"The price after discount is: {final_price}$")
         else:
-            print(f"The price for the quantity is: {final_price}")
+            print(f"The price for the quantity is: {final_price}$")
         break
 
     except AssertionError as e:
