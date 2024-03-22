@@ -1,3 +1,4 @@
+#Write a program that allows for user input to enter five test scores. Have your program display a letter grade for each score and lastly the average test score. Include the following functions in your program: calculate_average and letter_grade.
 def letter_grades(average): #Transforming students test scores to GPA
     if 1.0 <= average <= 1.5:
         return "GPA: A"
