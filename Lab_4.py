@@ -1,8 +1,8 @@
 def calculate_average():
-    a = int("Please enter at least five test scores:")
-    b = int("Please enter at least five test scores:")
-    c = int("Please enter at least five test scores:")
-    d = int("Please enter at least five test scores:")
-    e = int("Please enter at least five test scores:")
+    a = int("Please enter the first score:")
+    b = int("Please enter the second score:")
+    c = int("Please enter the third score:")
+    d = int("Please enter the fourth score:")
+    e = int("Please enter the fifth score:")
     letters = [a,b,c,d,e]
     print(letters)
